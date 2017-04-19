@@ -1,0 +1,3 @@
+rootProject.name = 'SISCAPP'
+
+include ':app'
